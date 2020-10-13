@@ -1,6 +1,6 @@
 # Prize-Promotions
 
-Welcome to the <b>Prize Promotions for Small Bussiness Web App. 
+Welcome to the <b>Prize Promotions for Small Bussiness Web App</b>. 
 
 This project belongs to the 2020.1 class university students of System Analysis and Development degree from <a  href="https://claretiano.edu.br/"> Claretiano</a> Brazilian-based International University.
 
