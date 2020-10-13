@@ -1,6 +1,3 @@
-![Prize Me](htps://github.com/Paulo-AndradeB/Prize-Promotions/issues/2#issue-719932350")
-Imagem de <a href="https://pixabay.com/pt/users/startupstockphotos-690514/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=593313">StartupStockPhotos</a> por <a href="https://pixabay.com/pt/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=593313">Pixabay</a>
-
 # Prize-Promotions
 
 Welcome to the <b>Prize Promotions for Small Bussiness Web App</b>. 
