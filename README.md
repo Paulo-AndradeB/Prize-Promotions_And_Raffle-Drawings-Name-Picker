@@ -7,3 +7,8 @@ This project belongs to the 2020.1 class university students of Claretiano - Cen
 However, for sure, everyone is welcome to get involved in this project. Thanks for joining us. 
 
 The aim is to develop a free web application to help small enterprises to manage prizes and rewards in successful promotions in their business.
+
+
+# License
+
+Have a look at the license file for details
