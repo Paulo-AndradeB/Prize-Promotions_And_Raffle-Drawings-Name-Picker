@@ -12,3 +12,5 @@ The aim is to develop a free web application to help small enterprises to manage
 # License
 
 Have a look at the [license](https://github.com/Paulo-AndradeB/Prize-Promotions/blob/main/LICENSE) file for details
+
+![](https://github.com/Paulo-AndradeB/Prize-Promotions/issues/2#issue-719932350)
