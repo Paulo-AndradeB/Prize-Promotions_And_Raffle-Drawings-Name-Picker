@@ -2,7 +2,7 @@
 
 Welcome to the <b>Prize Promotions for Small Bussiness Web App</b>. 
 
-I´m an university students of System Analysis and Development degree at <a  href="https://claretiano.edu.br/"> Claretiano</a> Brazilian-based International University.
+I´m a System Analysis and Development student at <a  href="https://claretiano.edu.br/"> Claretiano</a> Brazilian-based International University.
 
 Everyone is welcome to get involved in this project. Thanks for joining me. 
 
