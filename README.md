@@ -1,3 +1,5 @@
+![Badge](https://img.shields.io/badge/Join-Us-%232157cz??style=flat-square&logo=appveyor)
+
 # Prize & Promotions
 
 Welcome to the <b>Prize Promotions for Small Business Web Application</b>. 
