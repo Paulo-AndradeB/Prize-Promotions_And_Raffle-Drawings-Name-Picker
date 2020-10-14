@@ -20,3 +20,8 @@ Have a look at the [license](https://github.com/Paulo-AndradeB/Prize-Promotions/
 # What have done already
 
 lookup "Done" column at Prize & Promotions Project Boards in the Projects section above or click [here](https://github.com/Paulo-AndradeB/Prize-Promotions/projects/1)
+
+
+# Get in touch
+
+Please feel free to contact me at any time by my email: eupauloandrade@gmail.com. 
