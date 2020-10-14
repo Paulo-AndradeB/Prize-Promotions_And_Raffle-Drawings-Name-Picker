@@ -10,7 +10,7 @@ Everyone is welcome to get involved in this project. Thanks for joining me.
 
 The aim is to develop a free web application to help small enterprises to manage prizes and rewards in successful promotions in their business. 
 
-For a better understanding, please have a look at the attached [System Overview Documentation file](https://github.com/Paulo-AndradeB/Prize-Promotions/wiki/SYSTEM-OVERVIEW-DOCUMENTATION).
+For a better understanding, please have a look at either the attached [System Overview Documentation file](https://github.com/Paulo-AndradeB/Prize-Promotions/wiki/SYSTEM-OVERVIEW-DOCUMENTATION), and the [Use Cases](https://github.com/Paulo-AndradeB/Prize-Promotions/blob/Develop/analysis-design/Use%20Cases%20-%20Prize%20Promotions.docx) file, both of them wrote in pt-br. 
 
 We are working mostly with <b>HTML, CSS, JavaScript, PHP, SQL, MySql, Python, Figma, and UML</b>. 
 
@@ -30,4 +30,4 @@ Please make sure to create your pull request from the respective [feature branch
 
 # Get in touch
 
-Feel free to contact me at any time by my email: eupauloandrade@gmail.com. 
+Feel free to contact me at any time for any reason by my email: eupauloandrade@gmail.com. 
