@@ -1,4 +1,4 @@
-# Prize-Promotions
+# Prize & Promotions
 
 Welcome to the <b>Prize Promotions for Small Business Web Application</b>. 
 
