@@ -1,6 +1,6 @@
 # Prize-Promotions
 
-Welcome to the <b>Prize Promotions for Small Business Web App</b>. 
+Welcome to the <b>Prize Promotions for Small Business Web Application</b>. 
 
 I´m a System Analysis and Development student at <a  href="https://claretiano.edu.br/"> Claretiano</a> Brazilian-based International University.
 
