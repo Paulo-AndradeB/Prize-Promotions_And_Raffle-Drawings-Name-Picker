@@ -21,6 +21,9 @@ Have a look at the [license](https://github.com/Paulo-AndradeB/Prize-Promotions/
 
 lookup "Done" column at Prize & Promotions Project Boards in the Projects section above or click [here](https://github.com/Paulo-AndradeB/Prize-Promotions/projects/1)
 
+# Pull requests
+
+Please make sure to create your pull request from the respective [feature branches](https://github.com/Paulo-AndradeB/Prize-Promotions/branches) that you would like to contribute to. if you need a new feature, please get in touch with me.
 
 # Get in touch
 
