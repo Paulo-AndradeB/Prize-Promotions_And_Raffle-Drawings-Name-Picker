@@ -28,4 +28,4 @@ Please make sure to create your pull request from the respective [feature branch
 
 # Get in touch
 
-Please feel free to contact me at any time by my email: eupauloandrade@gmail.com. 
+Feel free to contact me at any time by my email: eupauloandrade@gmail.com. 
