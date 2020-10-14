@@ -10,6 +10,7 @@ The aim is to develop a free web application to help small enterprises to manage
 
 For a better understanding, please have a look at the attached [System Overview Documentation file](https://github.com/Paulo-AndradeB/Prize-Promotions/wiki/SYSTEM-OVERVIEW-DOCUMENTATION).
 
+We are working mostly with <b>HTML, CSS, JavaScript, PHP, SQL, MySql, Python, Figma, and UML</b>. 
 
 # License
 
