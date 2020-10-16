@@ -30,6 +30,12 @@ Feel free to contact me at any time for any reason by my email: eupauloandrade@g
 
 lookup "Done" column at Prize & Promotions Project Boards in the Projects section above or click [here](https://github.com/Paulo-AndradeB/Prize-Promotions/projects/1)
 
+# The real problem
+
+We wish to solve a real problem. If you want to figure this problem out, we recommend watching the video below.
+
+[![Watch the video](http://i1.ytimg.com/vi/vTxkD81Qmsk/hqdefault.jpg)](https://youtu.be/vTxkD81Qmsk)
+
 
 
 
