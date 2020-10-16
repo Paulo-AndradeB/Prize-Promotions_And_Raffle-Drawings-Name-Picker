@@ -6,7 +6,7 @@ Welcome to the <b>Prize Promotions for Small Business Web Application</b>.
 
 I´m a System Analysis and Development student at <a  href="https://claretiano.edu.br/"> Claretiano</a> Brazilian-based International University.
 
-This project aim is to develop a free web application to help small enterprises to hold raffle deawings with random name picker, and manage prizes & rewards in successful promotions in their business. 
+This project aims is to develop a free web application to help small enterprises to hold raffle deawings with random name picker, and manage prizes & rewards in successful promotions in their business. 
 
 For a better understanding, please have a look at either the attached [System Overview Documentation file](https://github.com/Paulo-AndradeB/Prize-Promotions/wiki/SYSTEM-OVERVIEW-DOCUMENTATION), and the [Use Cases](https://github.com/Paulo-AndradeB/Prize-Promotions/blob/Develop/analysis-design/Use%20Cases%20-%20Prize%20Promotions.docx) file, both of them wrote in pt-br. 
 
