@@ -28,7 +28,7 @@ Feel free to contact me at any time for any reason by my email: eupauloandrade@g
 
 # What have done already
 
-lookup "Done" column at Prize & Promotions Project Boards in the Projects section above or click [here](https://github.com/Paulo-AndradeB/Prize-Promotions/projects/1)
+Take a look at [Prize & Promotions Project Boards](https://github.com/Paulo-AndradeB/Prize-Promotions/projects/1)
 
 # The real problem
 
