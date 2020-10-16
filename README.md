@@ -10,7 +10,7 @@ This project aims is to develop a free web application to help small enterprises
 
 For a better understanding, please have a look at either the attached [System Overview Documentation file](https://github.com/Paulo-AndradeB/Prize-Promotions/wiki/SYSTEM-OVERVIEW-DOCUMENTATION), and the [Use Cases](https://github.com/Paulo-AndradeB/Prize-Promotions/blob/Develop/analysis-design/Use%20Cases%20-%20Prize%20Promotions.docx) file, both of them wrote in pt-br. 
 
-We are working mostly with <b>HTML, CSS, JavaScript, PHP, SQL, MySql, Python, Figma, Astah, and UML</b>. 
+We are working mostly with <b>HTML, CSS, JavaScript, PHP, SQL, MySql, Python, Figma, Astah, Drawio and UML</b>. 
 
 # License
 
