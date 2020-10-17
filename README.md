@@ -8,7 +8,7 @@ I´m a System Analysis and Development student at <a  href="https://claretiano.e
 
 This project aims is to develop a free web application to help small enterprises to hold raffle deawings with random name picker, and manage prizes & rewards in successful promotions in their business. 
 
-For a better understanding, please have a look at either the attached [System Overview Documentation file](https://github.com/Paulo-AndradeB/Prize-Promotions/wiki/SYSTEM-OVERVIEW-DOCUMENTATION), and the [Use Cases](https://github.com/Paulo-AndradeB/Prize-Promotions/blob/Develop/analysis-design/Use%20Cases%20-%20Prize%20Promotions.docx) file, both of them wrote in pt-br. 
+For a better understanding, please have a look at the attached files in "analysis-design" folder. 
 
 We are working mostly with <b>HTML, CSS, JavaScript, PHP, SQL, MySql, Python, Figma, Astah, Drawio and UML</b>. 
 
@@ -28,7 +28,19 @@ Feel free to contact me at any time for any reason by my email: eupauloandrade@g
 
 # What have done already
 
-Take a look at [Prize & Promotions Project Boards](https://github.com/Paulo-AndradeB/Prize-Promotions/projects/1)
+Take a look at [Prize & Promotions Project Boards](https://github.com/Paulo-AndradeB/Prize-Promotions/projects/1).
+
+Please pay special attention to:
+
+1. [System Overview Documentation](https://github.com/Paulo-AndradeB/Prize-Promotions_And_Raffle-Drawings-Name-Picker/blob/Develop/analysis-design/System%20Overview%20Documentation%20-%20Prize%20Promotions.docx)
+
+2. [System Use Cases](https://github.com/Paulo-AndradeB/Prize-Promotions_And_Raffle-Drawings-Name-Picker/blob/Develop/analysis-design/Use%20Cases%20-%20Prize%20Promotions.docx)
+
+3. [UML Class Diagram](https://github.com/Paulo-AndradeB/Prize-Promotions_And_Raffle-Drawings-Name-Picker/blob/Develop/analysis-design/ClassDiagram_Prize-Promotions.pdf)
+
+4. [Process Flowchart Diagram](https://github.com/Paulo-AndradeB/Prize-Promotions_And_Raffle-Drawings-Name-Picker/blob/Develop/analysis-design/Process%20Flowchart%20-%20Prize%20Promotions.jpg)
+
+5. [Database Design keys scheme](https://github.com/Paulo-AndradeB/Prize-Promotions_And_Raffle-Drawings-Name-Picker/blob/Develop/analysis-design/Database_Design_key_scheme.xlsx)
 
 # The real problem
 
