@@ -26,6 +26,8 @@ Please make sure to create your pull request from the respective [feature branch
 
 Feel free to contact me at any time for any reason by my email: eupauloandrade@gmail.com. 
 
+Please complete this short [survey](https://forms.gle/PwCiLAYLBBbt8g2w9) to provide us feedback
+
 # What have done already
 
 Take a look at [Prize & Promotions Project Boards](https://github.com/Paulo-AndradeB/Prize-Promotions/projects/1).
