@@ -28,8 +28,6 @@ Feel free to contact me at any time for any reason by my email: eupauloandrade@g
 
 Please complete this short [survey](https://forms.gle/PwCiLAYLBBbt8g2w9) to provide us feedback.
 
-UI and UX Design, join us at [Figma](https://www.figma.com/file/pYbMT8XFjnPlJVZ13HJ0fc/homePage?node-id=16%3A679)
-
 # What have done already
 
 Take a look at [Prize & Promotions Project Boards](https://github.com/Paulo-AndradeB/Prize-Promotions/projects/1).
