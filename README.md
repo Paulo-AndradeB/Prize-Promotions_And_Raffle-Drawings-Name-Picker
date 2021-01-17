@@ -10,7 +10,7 @@ This project aims is to develop a free web application to help small enterprises
 
 For a better understanding, please have a look at the attached files in "analysis-design" folder. 
 
-We are working mostly with <b>HTML, CSS, JavaScript, PHP, SQL, MySql, Python, Figma, Astah, Drawio and UML</b>. 
+We are working mostly with <b>(X)HTML, (S)CSS, JavaScript, JQuery, AJAX, PHP, SQL, MySql, Python, Figma, Astah, Drawio and UML</b>. 
 
 # License
 
